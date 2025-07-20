@@ -14,7 +14,7 @@ sudo apt-get install ros-humble-ros-gz-image
 Compile the package:
 
 ```
-git clone 
+git clone https://github.com/captain-bender/my_articubot_one.git
 cd ..
 colcon build --symlink-install
 source install/setup.bash 
