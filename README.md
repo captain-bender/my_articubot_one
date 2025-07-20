@@ -1,6 +1,6 @@
 # Differntial Drive Robot
 
-This is a simple differential robot to experiment in ROS 2 humble and Gazebo Fortress. The code coppied from [artibot_one](https://github.com/joshnewans/articubot_one) prepared by Josh Newmans.
+This is a simple differential robot to experiment in ROS 2 humble and Gazebo Fortress. The code copied from [artibot_one](https://github.com/joshnewans/articubot_one) prepared by Josh Newmans.
 
 ## How to explore the simulation
 Install dependencies:
